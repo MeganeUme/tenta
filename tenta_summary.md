@@ -78,6 +78,12 @@ kan ha användare och få pengar
 2. Agila Manifestet
     Det finns 8 principer
 
+    >**Individuals and Interactions** over processes and tools
+    >**Working software** over comprehensive documentation
+    >**Customer collaboration** over contract negotiation
+    >**Responding to change** over following a plan
+    
+
     Bakgrund skapat 2001 av 17 personer från mjukvaruutvecklare. De var missnöjda med traditionella metoder som prioriterade planering och dokumentation över leverans av värde och kvalitet.
     # ! Muyimportante
     Ska kunna Agila manifestet, Viktigaste i kursen
