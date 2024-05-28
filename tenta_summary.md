@@ -348,8 +348,8 @@ Leanstartup machine bygger på **3 Principer**
    1. Master: Alltid redo för produktion. 
    2. Develop: Integrationsbranch för funktioner och nästa release. 
    3. Feature branches: För utveckling av nya funktioner. 
-   4. Release branches: För förberedelse av en ny produktionsrelease. 5. Hotfix 
-   branches: För snabba fixar i produktion.
+   4. Release branches: För förberedelse av en ny produktionsrelease. 
+   5. Hotfix branches: För snabba fixar i produktion.
 
 ### Fördelar: 
 1. Strukturerad metod: Ger ett tydligt arbetsflöde och struktur, vilket kan vara till hjälp för stora team. 
@@ -369,25 +369,18 @@ Trunk-Based Development (TBD) är ett branching-workflow där utvecklare integre
 
 ### Fördelar: 
 1. Kontinuerlig integration: Främjar kontinuerlig integration, vilket minskar integrationssmärta och gör merging enklare. 
-
 2. Minskad komplexitet: Enklare branch-modell med mindre övergripande arbete jämfört med Gitflow. 
-
 3. Snabbare feedback: Snabbare feedback från automatiserade tester och kodgranskningar eftersom förändringar integreras ofta. 
 
 ### Nackdelar: 
 1. Kräver disciplin: Kräver en hög nivå av disciplin för att säkerställa att förändringar är små, testade och integrerade ofta.
-3 / 7 
-12 240523 - Git Workflows, DevOps och CI CD 
 2. Risk för instabilitet: Frekventa förändringar i huvudbranchen kan leda till instabilitet om det inte hanteras väl med robusta test- och CI/CD-pipelines. 
 3. Mindre isolering: Mindre isolering av arbete jämfört med Gitflow, vilket kan leda till konflikter och integrationsproblem om det inte hanteras korrekt. 
 
 
-
-
 ### Sammanfattning 
 **Gitflow Workflow** är idealiskt för projekt som drar nytta av en strukturerad, disciplinerad metod med tydlig separation ansvarsområden. Det är särskilt användbart för team som har definierade release-cykler och behöver hantera komplexa utvecklingsaktiviteter. 
-Trunk-Based Development är bättre för team som siktar på kontinuerlig integration och leverans, med betoning på snabb utveckling och frekventa releaser. Det passar miljöer där smidighet och snabba feedback-loopar är avgörande.
-
+**Trunk-Based Development** är bättre för team som siktar på kontinuerlig integration och leverans, med betoning på snabb utveckling och frekventa releaser. Det passar miljöer där smidighet och snabba feedback-loopar är avgörande.
 
 
 ### 3. DevOps och CI/CD 
