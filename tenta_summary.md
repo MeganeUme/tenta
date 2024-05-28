@@ -79,7 +79,7 @@ kan ha användare och få pengar
 
     Ska kunna Agila manifestet, Viktigaste i kursen
     Det finns 8 principer
-    # ! Muyimportante
+    # ! Important
 
     - **Individuals and Interactions** over processes and tools
 
