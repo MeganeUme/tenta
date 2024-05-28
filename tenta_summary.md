@@ -37,7 +37,7 @@
     Build product with minimum core features
 
 
-# Användar tester och tvärfunktionella team
+## Användar tester och tvärfunktionella team
 
 1. Vad betyder tvärfunktionella team.
     Är det minsta möjliga teamet med medlämmer med olika kompetenser.
@@ -78,10 +78,10 @@ kan ha användare och få pengar
 2. Agila Manifestet
     Det finns 8 principer
 
-    >**Individuals and Interactions** over processes and tools
-    >**Working software** over comprehensive documentation
-    >**Customer collaboration** over contract negotiation
-    >**Responding to change** over following a plan
+    -**Individuals and Interactions** over processes and tools
+    -**Working software** over comprehensive documentation
+    -**Customer collaboration** over contract negotiation
+    -**Responding to change** over following a plan
     
 
     Bakgrund skapat 2001 av 17 personer från mjukvaruutvecklare. De var missnöjda med traditionella metoder som prioriterade planering och dokumentation över leverans av värde och kvalitet.
@@ -191,7 +191,7 @@ Quality
     Velocity - Hur många userstory point man brukar klara av under en sprint
     En bild säger mer än 1000 ord
 
-11. ### Lektion 6 Absolut viktigast???? + Podden
+11. # Lektion 6 Absolut viktigast???? + Podden - []
 
 ## Lektion 7 - Roller och Ledarskap och extreame programming
 1. Sprint Review och Demo
