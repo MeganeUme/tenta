@@ -38,7 +38,7 @@
     Build product with minimum core features
 
 
-## Användar tester och tvärfunktionella team
+## Användar tester och tvärfunktionella team Lektion 9
 1. Vad betyder tvärfunktionella team.
     Är det minsta möjliga teamet med medlämmer med olika kompetenser.
     Kompetenser för att kunna skapa en product (alla kompetenser ska ingå)
@@ -259,13 +259,13 @@ kan ha användare och få pengar
         4 fingers - sounds good
         5 fingers - Total agreement
 
-## Skalad agile
+## Skalad agile Lektion 8
 1. Handlar om när flera team ska samarbeta
 
 2. 3 saker att ta med från SAFe
-    ART - Agile Release Train
-    RTE - Rlelease Train Engineer
-    PI planning/Big Room Planning
+-    ART - Agile Release Train
+-    RTE - Rlelease Train Engineer
+-    PI planning/Big Room Planning
 
 3. PI planning
     Alla ska få en förståelse om vad som händer och hur saker påverkar varandra.
@@ -283,7 +283,7 @@ kan ha användare och få pengar
 
 7. Spotify modellen
 
-## Retrospectiv
+## Retrospectiv Lektion 10
 
 1. Retro är det viktigaste ceremonin i det agila arbetssättet.
     Vikgit för: 
@@ -304,13 +304,102 @@ kan ha användare och få pengar
 6. Alex pentland: Defining characteristics of successful teams
     Ett team där alla pratar med varandra är bättre!
 
-7. Amy Enderson video: ! Highly recommend
+7. Amy Enderson video: **! Highly recommend**
 
 8. Maybe some examples av hur man kan arbeta systematiskt med återkoppling
 
 
 ## Tobias Lektion Github
+1. Git funkar alldeles utmärkt att köra versionshantering bara lokalt på din egen dator utan GitHub 
+
+2. Git funkar genom att skapa en databas av objekt under en dold ".git"-katalog i din projektkatalog. 
+
+3. En commit är en samling av alla filer i projektet vid ögonblicket då du skapade commit:en. Varje commit har ett "namn" som består av en hash som ser ut exempelvis så här " 4b94df366ae20586794704908b47f8820671079f " 
+
+4. En branch är bara en pekare på en specifik commit. 
+
+5. Varje vanlig commit har en föräldra-commit som är den tidigare commit:en i sekvensen. 6. Varje merge-commit har två föräldrar, en från varje branch som slås ihop av merge:n.
+
+
+## Tobias Lektion Git Workflows, DevOps och CI CD
+
+### 1. Git workflows
+
+    1. Master: Alltid redo för produktion. 
+    2. Develop: Integrationsbranch för funktioner och nästa release. 
+    3. Feature branches: För utveckling av nya funktioner. 
+    4. Release branches: För förberedelse av en ny produktionsrelease. 5. Hotfix 
+    branches: För snabba fixar i produktion.
+
+### Fördelar: 
+1. Strukturerad metod: Ger ett tydligt arbetsflöde och struktur, vilket kan vara till hjälp för stora team. 
+2. Isolerad utveckling: Möjliggör isolering av olika typer av arbete (funktioner, releaser, hotfixes), vilket minskar risken för konflikter.
+2 / 7 
+12 240523 - Git Workflows, DevOps och CI CD 
+3. Tydlig releaseprocess: Definierar en tydlig väg för förberedelse och distribution av releaser. 
+
+### Nackdelar: 
+1. Komplexitet: Kan vara alltför komplex för mindre team eller enklare projekt. 2. Långlivade branches: Kan leda till långlivade branches, vilket kan öka risken för integrationsproblem och teknisk skuld. 
+3. Övergripande arbete: Kräver mer hantering och disciplin för att upprätthålla branch strategin.    
+
+
+### 2. Trunk-Based Development 
+### Översikt: 
+Trunk-Based Development (TBD) är ett branching-workflow där utvecklare integrerar små, frekventa förändringar i en enda huvudbranch (eller trunk). Feature branches är vanligtvis kortlivade och mergas tillbaka till huvudbranchen snabbt. 
+
+### Fördelar: 
+1. Kontinuerlig integration: Främjar kontinuerlig integration, vilket minskar integrationssmärta och gör merging enklare. 
+
+2. Minskad komplexitet: Enklare branch-modell med mindre övergripande arbete jämfört med Gitflow. 
+
+3. Snabbare feedback: Snabbare feedback från automatiserade tester och kodgranskningar eftersom förändringar integreras ofta. 
+
+### Nackdelar: 
+1. Kräver disciplin: Kräver en hög nivå av disciplin för att säkerställa att förändringar är små, testade och integrerade ofta.
+3 / 7 
+12 240523 - Git Workflows, DevOps och CI CD 
+2. Risk för instabilitet: Frekventa förändringar i huvudbranchen kan leda till instabilitet om det inte hanteras väl med robusta test- och CI/CD-pipelines. 
+3. Mindre isolering: Mindre isolering av arbete jämfört med Gitflow, vilket kan leda till konflikter och integrationsproblem om det inte hanteras korrekt. 
 
 
 
-## Tobias Lektion DevOps, CD/CI
+
+### Sammanfattning 
+**Gitflow Workflow** är idealiskt för projekt som drar nytta av en strukturerad, disciplinerad metod med tydlig separation ansvarsområden. Det är särskilt användbart för team som har definierade release-cykler och behöver hantera komplexa utvecklingsaktiviteter. 
+Trunk-Based Development är bättre för team som siktar på kontinuerlig integration och leverans, med betoning på snabb utveckling och frekventa releaser. Det passar miljöer där smidighet och snabba feedback-loopar är avgörande.
+
+
+
+### 3. DevOps och CI/CD 
+**Change Management**
+
+I moderna IT-företag är förändringar oundvikliga, men de kan också vara riskfyllda. Change management handlar om att skydda oss mot oväntade förändringar som kan påverka systemens stabilitet och säkerhet. Genom strukturerade processer och noggranna tester säkerställer vi att förändringar införs på ett kontrollerat sätt. 
+
+Traditionellt har ITIL (Information Technology Infrastructure Library) använts för att hantera förändringar och incidenter. Men dessa metoder kan ofta leda till långsamma processer, vilket står i kontrast till dagens krav på snabb och kontinuerlig leverans av mjukvara. 
+
+
+### What is DevOps
+    DevOps är en kultur där mjukvaruutvecklare och IT-drift samarbetar för att snabbt och säkert leverera och uppdatera programvara. Det finns många olika definitioner av DevOps, men kärnan ligger i att möta de agila principerna utan att kompromissa med driftssäkerheten.
+
+### Praktisk Strategi 
+För att implementera DevOps framgångsrikt fokuserar vi på tre huvudstrategier: automatisera, mäta och samarbeta. 
+
+### Automatisera 
+### CI/CD 
+En av de viktigaste komponenterna i DevOps är CI/CD (Continuous Integration/Continuous Delivery). CI/CD möjliggör smidigt samarbete mellan utvecklare och drift genom att: 
+
+**Kontinuerlig Integration (CI)**: Utvecklare integrerar regelbundet kodändringar i ett delat repository. Dessa ändringar verifieras automatiskt genom tester, vilket hjälper till att upptäcka och åtgärda fel tidigt i utvecklingsprocessen. 
+
+**Kontinuerlig Leverans (CD)**: CD strävar efter att automatiskt leverera verifierad kod till produktion. Detta minskar tiden från kodning till implementering, vilket leder till snabbare utgivningar och mer tillförlitlig mjukvara.
+
+CI/CD innebär att vi byter ut manuella steg i testning och deployment mot automatiserade och skriptade processer som gör detta automatiskt åt oss så att operations kan känna sig säkrare på att den kod som går ut i produktion faktiskt funkar som den ska och utvecklare kan iterera snabbare och mer agilt. 
+
+
+### Mäta 
+Att mäta och övervaka är kritiskt för att fatta data-drivna beslut. Genom dashboards, övervakning och larm kan vi kontinuerligt följa systemets hälsa och prestanda, vilket möjliggör snabb identifiering och lösning av problem. 
+
+
+
+### Vad är DevOps? 
+DevOps är en KULTUR där mjukvaruutvecklare och IT-drift samarbetar för att snabbt och säkert leverera och uppdatera programvara. DevOps hjälper till att överbrygga gapet mellan utvecklings-, test- och driftsteamen, vilket skapar ett enhetligt arbetsflöde genom hela mjukvaruleveranscykeln. Detta möjliggör snabbare, effektivare och mer tillförlitlig mjukvaruutveckling och leverans. 
+Genom att implementera DevOps och CI/CD kan vi uppnå en mer agil, responsiv och tillförlitlig mjukvaruutvecklingsprocess, där samarbete och automatisering står i centrum. 
