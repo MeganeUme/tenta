@@ -359,7 +359,8 @@ Leanstartup machine bygger på **3 Principer**
 3. Tydlig releaseprocess: Definierar en tydlig väg för förberedelse och distribution av releaser. 
 
 ### Nackdelar: 
-1. Komplexitet: Kan vara alltför komplex för mindre team eller enklare projekt. 2. Långlivade branches: Kan leda till långlivade branches, vilket kan öka risken för integrationsproblem och teknisk skuld. 
+1. Komplexitet: Kan vara alltför komplex för mindre team eller enklare projekt. 
+2. Långlivade branches: Kan leda till långlivade branches, vilket kan öka risken för integrationsproblem och teknisk skuld. 
 3. Övergripande arbete: Kräver mer hantering och disciplin för att upprätthålla branch strategin.    
 
 
