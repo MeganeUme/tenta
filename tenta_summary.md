@@ -16,7 +16,7 @@
 
 
 ### EP 2
-1. Plannering av lokalel (Tystare längre in)
+1. Plannering av lokalel Eudinomium (Tystare längre in)
 2. Visualisera tiden (räknar inte ner men visar hur lång tid det är kvar)
     typ standup klocka
 3. Tillgänglighet till små saker (tex pallar. bli av med "buller", lösa sladdar)
@@ -28,6 +28,7 @@
 1. Kommunikation (även fast man själv förstår så kanske inte andra försåtr)
 2. Design studio (Hjälper alla iteamet få ut sin ide)
     Mycket bra verktyg och metod för att lättare
+3. Bättre att testa en skiss på användare än en halv färdig produkt som behöver ändringar.
 
 ### EP 4
 1. Jobba agilt (fastna inte på en sak. Tänk om)
