@@ -68,6 +68,23 @@ kan ha användare och få pengar
 
 7. saker som är bra att tänka på för användar tester. boomerang, echo, styr inte användaren för mycket
 
+## Sammanfattning av Lektion 1 Lean Startup machine
+1. Lean Startup Machine
+
+Lean startup machine är en metod för att validera sin ide utan att lägga ner för mycket resurser.
+
+Leanstartup machine bygger på **3 Principer**
+- Build - Skapa något användarna kan reagera på, man ska inte bygga i onödan, något litet kan vara en pappersprototyp
+- Measure - Innan testerna ska man bestämma vad det är för resultat man vill ha, detta för att se om produkten är påväg mot rätt riktning
+- Learn - Det spelar ingen roll om hypotesen höll, utan man tar med sig korrekt feedback och utvecklar vidare utifrån det.  
+
+2. Iteration-protocol / Javelin board
+Bryt ner olika delar av projektet för att kunna analysera användarens behov och betende. Din upplevelse / ide är inte alltid den bästa iden.  Man ska gör minst 5 iterationer för att komma fram till en lösning som presenterar användaren. Användaren ska vara i fokus. Om kriterierna inte möts kan man alltid göra en pivot. 
+
+3. **USER FIRST**
+
+    **Tänk alltid från användarens perspektiv**
+
 ## Sammanfattning av sprint 0, Lektion 4
 1. Vattenfalls metoden
     Arbetet sker stegvis. Linjärt och inte väldigt flexibelt.
