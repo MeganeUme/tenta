@@ -356,8 +356,6 @@ Leanstartup machine bygger på **3 Principer**
 ### Fördelar: 
 1. Strukturerad metod: Ger ett tydligt arbetsflöde och struktur, vilket kan vara till hjälp för stora team. 
 2. Isolerad utveckling: Möjliggör isolering av olika typer av arbete (funktioner, releaser, hotfixes), vilket minskar risken för konflikter.
-2 / 7 
-12 240523 - Git Workflows, DevOps och CI CD 
 3. Tydlig releaseprocess: Definierar en tydlig väg för förberedelse och distribution av releaser. 
 
 ### Nackdelar: 
