@@ -16,7 +16,7 @@
 
 
 ### EP 2
-1. Plannering av lokalel Eudinomium (Tystare längre in)
+1. Plannering av lokalel "Eudaimonia machine" (Tystare längre in)
 2. Visualisera tiden (räknar inte ner men visar hur lång tid det är kvar)
     typ standup klocka
 3. Tillgänglighet till små saker (tex pallar. bli av med "buller", lösa sladdar)
