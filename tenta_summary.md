@@ -193,9 +193,9 @@ kan ha användare och få pengar
 8. Estimering
     För att kunna förstå effektivitet, kostnader, impact och return on investment.
 
-        Man kommer överens om hur lång tid någonting tar att utföra.
-        Hittar ett gemensamt sätt. 
-        prata samma språk
+    - Man kommer överens om hur lång tid någonting tar att utföra.
+    - Hittar ett gemensamt sätt. 
+    - prata samma språk
 
     Ett vertyg för att kommunicera bättre och få en delad bild av vad det faktiskt är som ska göras. och ambitionsnivån på det
 
@@ -252,12 +252,12 @@ kan ha användare och få pengar
 
 8. Fist to five
 
-        0 fingers - No way
-        1 fingers - We need to talk about this
-        2 fingers - I have reservations
-        3 fingers - I'm okay with it
-        4 fingers - sounds good
-        5 fingers - Total agreement
+    - 0 fingers - No way
+    - 1 fingers - We need to talk about this
+    - 2 fingers - I have reservations
+    - 3 fingers - I'm okay with it
+    - 4 fingers - sounds good
+    - 5 fingers - Total agreement
 
 ## Skalad agile Lektion 8
 1. Handlar om när flera team ska samarbeta
@@ -325,11 +325,11 @@ kan ha användare och få pengar
 
 ### 1. Git workflows
 
-    1. Master: Alltid redo för produktion. 
-    2. Develop: Integrationsbranch för funktioner och nästa release. 
-    3. Feature branches: För utveckling av nya funktioner. 
-    4. Release branches: För förberedelse av en ny produktionsrelease. 5. Hotfix 
-    branches: För snabba fixar i produktion.
+   1. Master: Alltid redo för produktion. 
+   2. Develop: Integrationsbranch för funktioner och nästa release. 
+   3. Feature branches: För utveckling av nya funktioner. 
+   4. Release branches: För förberedelse av en ny produktionsrelease. 5. Hotfix 
+   branches: För snabba fixar i produktion.
 
 ### Fördelar: 
 1. Strukturerad metod: Ger ett tydligt arbetsflöde och struktur, vilket kan vara till hjälp för stora team. 
@@ -379,7 +379,7 @@ Traditionellt har ITIL (Information Technology Infrastructure Library) använts 
 
 
 ### What is DevOps
-    DevOps är en kultur där mjukvaruutvecklare och IT-drift samarbetar för att snabbt och säkert leverera och uppdatera programvara. Det finns många olika definitioner av DevOps, men kärnan ligger i att möta de agila principerna utan att kompromissa med driftssäkerheten.
+DevOps är en kultur där mjukvaruutvecklare och IT-drift samarbetar för att snabbt och säkert leverera och uppdatera programvara. Det finns många olika definitioner av DevOps, men kärnan ligger i att möta de agila principerna utan att kompromissa med driftssäkerheten.
 
 ### Praktisk Strategi 
 För att implementera DevOps framgångsrikt fokuserar vi på tre huvudstrategier: automatisera, mäta och samarbeta. 
