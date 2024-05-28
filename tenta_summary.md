@@ -1,6 +1,7 @@
 # Summary notes
 
 ## Podden
+### EP 1
 1. Tvärfunktionellt team
     kan göra allt till sammans
     Olika färdigheter i teamet
@@ -38,7 +39,6 @@
 
 
 ## Användar tester och tvärfunktionella team
-
 1. Vad betyder tvärfunktionella team.
     Är det minsta möjliga teamet med medlämmer med olika kompetenser.
     Kompetenser för att kunna skapa en product (alla kompetenser ska ingå)
@@ -75,24 +75,30 @@ kan ha användare och få pengar
     Fungerar bra för projekt eller produkter som har en väldigt tydlig bild på slutprodukt och något som inte kommer att kräva förändringar
     Typ en Bro.
 
-2. Agila Manifestet
-    Det finns 8 principer
+2. **Agila Manifestet**
 
-    -**Individuals and Interactions** over processes and tools
-    -**Working software** over comprehensive documentation
-    -**Customer collaboration** over contract negotiation
-    -**Responding to change** over following a plan
-    
-
-    Bakgrund skapat 2001 av 17 personer från mjukvaruutvecklare. De var missnöjda med traditionella metoder som prioriterade planering och dokumentation över leverans av värde och kvalitet.
-    # ! Muyimportante
     Ska kunna Agila manifestet, Viktigaste i kursen
+    Det finns 8 principer
+    # ! Muyimportante
+
+    - **Individuals and Interactions** over processes and tools
+
+    - **Working software** over comprehensive documentation
+
+    - **Customer collaboration** over contract negotiation
+
+    - **Responding to change** over following a plan
+    
+    Bakgrund skapat 2001 av 17 personer från mjukvaruutvecklare. De var missnöjda med traditionella metoder som prioriterade planering och dokumentation över leverans av värde och kvalitet.
+
 
 3. Agilt arbetssätt och hierarki
+
 4. Sprint och Scrum
     Sprint åter kommande arbets block
     Scrum master: kapten
     Ceremonier. daily standup, Demo/Review, Retro
+
 5. Working agreement
     för att ha en gemensam förståelse i teamet om vad som gäller. samt för att ha något att titta tbx på
 
@@ -139,7 +145,8 @@ kan ha användare och få pengar
     Bra påminnelse för att veta vad användaren vill
     Bra för att ha gemensammt konsensus om poäng
 
-## Lektion 6
+## Lektion 6 Plannering, Prioritering och Estimering
+### ! **Lektion 6 Absolut viktigast???? + Podden - []**
 1. Roadmap
     En löstids plan för vad som ska göras i kommande sprintar
 
@@ -154,9 +161,13 @@ kan ha användare och få pengar
     Sänker ambitions nivån om man inte hinner
 
 4. Projekttriangeln - Man får bara bälja två!. (Går inte att balancera alla tre)
-Time
-Cost
-Quality
+
+    Time
+
+    Cost
+
+    Quality
+
     releasa ofta. 
 
 5. Verktyg för att börja - Value/Effort mallen
@@ -166,19 +177,26 @@ Quality
     Plockar in så mycket från toppen av produktbackloggen etc...
 
 7. User story mapping
+
     Gruppera aktiviteter som hänger ihop
+
     Skriv en överrubrik
 
-    Potensiella frågor: bild var saknas user stories
+    Potensiella frågor på provet: "bild visas" vart saknas user stories i denna bild?
 
-    format
-        Som 
-        Vill jag
-        För att 
+    format för att strukturera user stories
+   
+    - Som "Användare"
+    - Vill jag "Att produkter sparas i kundvagn"
+    - För att "Lättare hålla koll på saker man köper"
 
 8. Estimering
     För att kunna förstå effektivitet, kostnader, impact och return on investment.
-        Man kommer överens om hur lång tid någonting tar att utföra. Hittar ett gemensamt sätt. prata samma språk
+
+        Man kommer överens om hur lång tid någonting tar att utföra.
+        Hittar ett gemensamt sätt. 
+        prata samma språk
+
     Ett vertyg för att kommunicera bättre och få en delad bild av vad det faktiskt är som ska göras. och ambitionsnivån på det
 
     Value/Effort: 
@@ -191,7 +209,7 @@ Quality
     Velocity - Hur många userstory point man brukar klara av under en sprint
     En bild säger mer än 1000 ord
 
-11. # Lektion 6 Absolut viktigast???? + Podden - []
+
 
 ## Lektion 7 - Roller och Ledarskap och extreame programming
 1. Sprint Review och Demo
@@ -233,7 +251,13 @@ Quality
     Mobbprogrammering: Driver and the others. change seats regularly 
 
 8. Fist to five
-    4 fingers - Sounds good
+
+        0 fingers - No way
+        1 fingers - We need to talk about this
+        2 fingers - I have reservations
+        3 fingers - I'm okay with it
+        4 fingers - sounds good
+        5 fingers - Total agreement
 
 ## Skalad agile
 1. Handlar om när flera team ska samarbeta
@@ -264,7 +288,7 @@ Quality
 1. Retro är det viktigaste ceremonin i det agila arbetssättet.
     Vikgit för: 
     1. Man lärsig och
-    2. Man ändrar 
+    2. Man ändrar enligt vad man har lärt sig
 
 2. Segelbåts metoden och + - metoden
 
@@ -285,5 +309,8 @@ Quality
 8. Maybe some examples av hur man kan arbeta systematiskt med återkoppling
 
 
+## Tobias Lektion Github
 
-# Sista recap thingy
+
+
+## Tobias Lektion DevOps, CD/CI
