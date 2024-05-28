@@ -37,7 +37,7 @@
     Om man har något förstort eller något som inte fungerar bättre att röra sig till annat som fungerar och upfyller krav
 3. MVP (Minimal Viable Product)
     Build product with minimum core features
-4. Viktigt med retrospektiv. Allokera tillräckligt med tid och gå igenom det som har hänt senaste veckan
+4. Viktigt med retrospektiv. Allokera tillräckligt med tid och gå igenom det som har hänt senaste veckan. **Ringa in det som funkar bra** och **Släpp det som fungerar dåligt**
 
 
 ## Användar tester och tvärfunktionella team Lektion 9
