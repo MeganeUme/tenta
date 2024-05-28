@@ -338,7 +338,9 @@ Leanstartup machine bygger på **3 Principer**
 
 4. En branch är bara en pekare på en specifik commit. 
 
-5. Varje vanlig commit har en föräldra-commit som är den tidigare commit:en i sekvensen. 6. Varje merge-commit har två föräldrar, en från varje branch som slås ihop av merge:n.
+5. Varje vanlig commit har en föräldra-commit som är den tidigare commit:en i sekvensen. 
+
+6. Varje merge-commit har två föräldrar, en från varje branch som slås ihop av merge:n.
 
 
 ## Tobias Lektion Git Workflows, DevOps och CI CD
