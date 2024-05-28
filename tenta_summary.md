@@ -79,7 +79,8 @@ Leanstartup machine bygger på **3 Principer**
 - **Learn** - Det spelar ingen roll om hypotesen höll, utan man tar med sig korrekt feedback och utvecklar vidare utifrån det.  
 
 2. Iteration-protocol / Javelin board
-Bryt ner olika delar av projektet för att kunna analysera användarens behov och betende. Din upplevelse / ide är inte alltid den bästa iden.  Man ska gör minst 5 iterationer för att komma fram till en lösning som presenterar användaren. Användaren ska vara i fokus. Om kriterierna inte möts kan man alltid göra en pivot. 
+
+    Bryt ner olika delar av projektet för att kunna analysera användarens behov och betende. Din upplevelse / ide är inte alltid den bästa iden.  Man ska gör minst 5 iterationer för att komma fram till en lösning som presenterar användaren. Användaren ska vara i fokus. Om kriterierna inte möts kan man alltid göra en pivot. 
 
 3. **USER FIRST**
 
